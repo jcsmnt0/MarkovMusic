@@ -1,5 +1,9 @@
+Main
+TAGS
+mid
 dist
 cabal-dev
+*.mid
 *.o
 *.hi
 *.chi
